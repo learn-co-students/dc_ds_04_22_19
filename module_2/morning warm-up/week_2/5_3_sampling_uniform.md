@@ -19,8 +19,7 @@
 ##### 2. Run a simulation for 100000 steps. Sample at each step from uniform distribution to decide which variable was picked. Store the results into a dictionary - incrementing the selected variable by 1 at each step. 
 
 
-###### [OPTIONAL]
-##### 3. save the dictionary in a pkl file 
+##### [OPTIONAL] 3. save the dictionary in a pkl file 
 - Read about pickle files!
 `use open`
 
@@ -28,6 +27,6 @@
 
 `use .close()`
 
-##### 4. open the saved file (check that what you have loaded is the same as your original dictionary)
+##### 4. Open the saved file (check that what you have loaded is the same as your original dictionary)
 
-##### 5. push to github your notebook and the pkl file 
+##### 5. Push to github your notebook and the pkl file. 
