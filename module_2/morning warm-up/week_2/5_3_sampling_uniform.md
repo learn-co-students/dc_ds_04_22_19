@@ -6,7 +6,7 @@
 `import seaborn as sns`
 
 ##### 1.  We want to sample 3 variables from the uniform distribution between 0 and 1 (0, 1). 
-##### The first variable should be picked 40% of the times, the second 30% of the times and the third 30% of the. times as well. (Think how you can use the cumulative sum to your assistance)
+##### The first variable should be picked 40% of the times, the second 30% of the times, and the third 30% of the times. (Think how you can use the cumulative sum to your assistance)
 
 - Example: Imagine you are you are spinning a wheel with ten even sized wedges. Each wedge is also numbered 1-10.
   - If you got any number between 1 to 4 you would increment var. 1 
@@ -16,10 +16,10 @@
 `use np.random.uniform`
 
 
-##### 2. run a simulation for 100000 steps. Sample at each step from uniform distribution to decide which variable was picked. Store the results into a dictionary - incrementing the selected variable by 1 at each step. 
+##### 2. Run a simulation for 100000 steps. Sample at each step from uniform distribution to decide which variable was picked. Store the results into a dictionary - incrementing the selected variable by 1 at each step. 
 
 
-
+###### [OPTIONAL]
 ##### 3. save the dictionary in a pkl file 
 - Read about pickle files!
 `use open`
@@ -28,6 +28,6 @@
 
 `use .close()`
 
-##### 4. open the saved file  (check that what you have loaded is the same as your original dictionary)
+##### 4. open the saved file (check that what you have loaded is the same as your original dictionary)
 
 ##### 5. push to github your notebook and the pkl file 
