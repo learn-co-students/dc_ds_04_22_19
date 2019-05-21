@@ -12,11 +12,12 @@
 `use np.random.uniform`
 
 
-### 2. run a simulation 100000 sampling at each step to decide which variable was picked. Store the results into a dictionary (uni_dict) 
+### 2. run a simulation for 100000 steps. Sample at each step to decide which variable was picked. Store the results into a dictionary (uni_dict) 
 
-- Read about pickle files!
+
 
 ### 3. save the dictionary in a pkl file 
+- Read about pickle files!
 `use open`
 
 `use pickle.dump`
