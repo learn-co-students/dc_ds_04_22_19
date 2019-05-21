@@ -46,10 +46,7 @@
 | Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_16_lecture_1_sql">Sql</a> | <a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_18_lecture_1_json"> JSON</a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_17_lecture_1_oop"> OOP</a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_18_lecture_2_apis">APIs</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_19_lecture_1_webscraping">Scraping</a>
-<a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/coach_labs/Reddit-API-Data-Coach-Lecture.ipynb">Lab - scraping & APIs</a>
-
-
-| <a href=""></a> | <a href=""></a> |
+<a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/coach_labs/Reddit-API-Data-Coach-Lecture.ipynb">Lab - scraping & APIs</a>| <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
