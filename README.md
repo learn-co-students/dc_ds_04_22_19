@@ -58,7 +58,7 @@
 | Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/morning%20warm-up/week_2">APIs</a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_2/5_2_bootstrap.md">Bootstrap</a><br><a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_2/5_3_sampling_uniform.md">Uniform sampling</a>|<a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_2/5_4_binomial.md">Binomial distribution</a> |
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/coach_labs/sql_lab.md"> SQL lab</a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/coach_labs/sql_lab.md"> SQL lab</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/coach_labs/SQL_labs/05_21_19_sql.ipynb"> SQL lab with solutions </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
