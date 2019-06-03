@@ -82,7 +82,7 @@
 | Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href="">Solution</a> | <a href=""></a> <br><a href="">Solution</a> |<a href=""></a><br><a href="">Solution</a>  ||
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href="">/a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
