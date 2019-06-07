@@ -5,12 +5,12 @@
  ` ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt`
  
 2. How would you pick columns 0,1,3 ?  
-`[[0, 1, 3]]`
+`[[0, 1, 3]]` . Pick these columns and save into a new data frame - we will operate on the new dataframe in the sections below.
 
 3. Use a for loop to find all rows where 
 Co2 (column 3) enteries with the value -99.99 (these are missing values) and replace them with NaN values (try using np.nan - do you know what it is? )
 
-4. Change names of columns to year, month, and CO2 (use colnames)
+4. Change names of columns to year, month, and CO2 (use .columns)
 
 5. Add a column 'Day' and specifiy the day 15 for all enteries
 
