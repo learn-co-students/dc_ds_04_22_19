@@ -66,10 +66,26 @@
 
 |                 | Twenty one                                       | Twenty two                                       | Twenty three                                     | Twenty four                                      | Twenty five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up">Bootstrap</a><br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/solutions">Solution</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up">1. Uniform sampling</a> <br> <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up">2. P values</a>|<a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up">Binomial distribution</a> |
+| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_1">Bootstrap</a><br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/solutions">Solution</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_1">1. Uniform sampling</a> <br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/solutions">Solution</a> <br> <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_1">2. P values</a>|<a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_1">Binomial distribution</a><br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/solutions">Solution</a>  ||
+| Morning code    | <a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/week_2/sampling_clt">sampling + t dist.</a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/week_2/hypothesis-testing">hypothesis-testing</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/week_2/effect-power">effect-power</a>  <br> <a href="https://drive.google.com/file/d/1-KkpOVW1m1QfISPMQg5s9p3xKKOhk1RZ/view?usp=sharing">Distribution lab -audio</a>| <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+
+
+
+
+### Week VII
+
+|                 | Twenty six                                       | Twenty seven                                       | Twenty eight                                     | Twenty nine                                      | Thirty                                     |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">t-test</a> <br><a href="">Solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">Naive bayes</a><br><a href="">Solution</a> | <a href=""></a> <br><a href="">Solution</a> |<a href=""></a><br><a href=""></a>  ||
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+
+
+
 
 
