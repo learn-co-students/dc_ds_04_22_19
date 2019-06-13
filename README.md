@@ -79,13 +79,24 @@
 
 |                 | Twenty six                                       | Twenty seven                                       | Twenty eight                                     | Twenty nine                                      | Thirty                                     |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">t-test</a> <br><a href="">Solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">Naive bayes</a><br><a href="">Solution</a> | <a href=""></a> <br><a href="">Solution</a> |<a href=""></a><br><a href=""></a>  ||
+| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">t-test</a> <br><a href="">Solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">Naive bayes</a><br><a href="">Solution</a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
+
+
+### Week VIII
+
+|                 | Thirty one                                       | Thirty two                                       | Thirty three                                     | Thirty four                                      | Thirty five                                     |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
+| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
 
