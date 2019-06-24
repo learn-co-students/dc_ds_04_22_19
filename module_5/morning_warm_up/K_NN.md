@@ -15,6 +15,10 @@ Let's create a board and throw darts on it.
 	-  We are going to uniformaly hit each part. If we 		hit the top left, we label the point with 70% 		red, and with equal chances blue, green and 		balck. Choose the dominant color for the other 		parts.
 	-  Save both the point (x, y) position and its 		label (color) to a list ('pt_li').
 	- Plot the board
+This should look like:
+
+![](knn_ex.png)
+	
 
 2
 
