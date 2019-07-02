@@ -1,2 +1,0 @@
-alias jp="jupyter notebook"
-

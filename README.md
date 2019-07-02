@@ -115,7 +115,7 @@
 
 |                 | Forty one                                       | Forty two                                       | Forty three                                     | Forty four                                      | Forty five                                     |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
+| Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_NN.md">KNN</a> <br><a href=""></a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_means.md"> K means</a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/PCA.md">PCA</a><br><a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/decision_tree.md">Decision trees</a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
@@ -126,7 +126,7 @@
 
 |                 | Forty six                                       | Forty seven                                       | Forty eight                                     | Forty nine                                      | Fifty                                    |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_NN.md">KNN</a> <br><a href=""></a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_means.md"> K means</a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/PCA.md">PCA</a><br><a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/decision_tree.md">Decision trees</a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
+| Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/grid_pipeline.md">grid search pipeline</a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
