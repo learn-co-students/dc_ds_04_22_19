@@ -128,7 +128,7 @@
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/grid_pipeline.md">grid search pipeline</a> <br><a href="">  </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/interview_practice.md">Interview Practice Questions</a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
 | Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/spark-ml/spark-ml.ipynb">Spark ML</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_5/spark-als">Recommendations</a> | <a href=""> </a> | <a>July 4th</a> | <a href=""></a> |
-| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Morning video   | <a href="https://www.youtube.com/watch?v=Rt5dWOO8ncU&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=22&t=0s"> Spark ML </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
