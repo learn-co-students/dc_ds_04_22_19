@@ -107,7 +107,7 @@
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+| Afternoon video | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=rHplM3JhxlY&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=19&t=0s"> Time series</a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
 
