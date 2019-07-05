@@ -119,7 +119,7 @@
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+| Afternoon video | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=eYYgwYPiSNo&feature=youtu.be">Random forest lab</a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
 ### Week XI - mod5
