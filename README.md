@@ -14,7 +14,7 @@
 
 
 
-### Week I 
+### Week I - mod1
 
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
@@ -26,7 +26,7 @@
 
 
 
-### Week II 
+### Week II - mod1 
 
 |                 | Six                                       | Seven                                       | Eight                                     | Nine                                      | Ten                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
@@ -38,7 +38,7 @@
 
 
 
-### Week IV
+### Week IV - mod2
 
 |                 | Eleven                                       | Twelve                                       | thirteen                                     | Fourteen                                      | Fifteen                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
@@ -51,7 +51,7 @@
 
 
 
-### Week V
+### Week V - mod2
 
 |                 | Sixteen                                       | Seventeen                                       | Eighteen                                     | Nineteen                                      | Twenty                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
@@ -62,7 +62,7 @@
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
-### Week VI
+### Week VI - mod3
 
 |                 | Twenty one                                       | Twenty two                                       | Twenty three                                     | Twenty four                                      | Twenty five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
@@ -75,60 +75,60 @@
 
 
 
-### Week VII
+### Week VII - mod3
 
 |                 | Twenty six                                       | Twenty seven                                       | Twenty eight                                     | Twenty nine                                      | Thirty                                     |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">t-test</a> <br><a href="">Solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">Naive bayes</a><br><a href="">Solution</a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
-| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Warm-up | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">t-test</a> <br><a href="">Solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_3/morning%20warm-up/week_2">Naive bayes</a><br><a href="">Solution</a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>| <a href=""></a> <br><a href=""> </a>   ||
+| Morning code    | <a href=""></a> | <a href=""> </a> | <a >Project </a> | <a >Project</a> | <a >Project</a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
 
 
-### Week VIII
+### Week VIII - mod4
 
 |                 | Thirty one                                       | Thirty two                                       | Thirty three                                     | Thirty four                                      | Thirty five                                     |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
-| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_4/week_1/all_the_math/algebra-calc.ipynb">Calculus</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_4/week_1/making-models-better/Lasso%20Ridge%20Polynomial%20Regression.ipynb">Lasso & Ridge</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_4/week_1/classification-evaluation/classification.ipynb">Classification </a> | <a href=""></a>| <a ></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |  <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_4/week_1/logistic/logistic.ipynb">Logistic regression</a> | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
-### Week IX
+### Week IX - mod4/mod5
 
 |                 | Thirty six                                       | Thirty seven                                       | Thirty eight                                     | Thirty nine                                      | Forty                                     |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
-| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning code    | <a href=""></a> | <a >Project</a> | <a >Project </a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+| Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_4/week_2/time_series_Bryan/time_series_demo.ipynb"> Time series - Bryan</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_4/week_2/time_series_Alison/time_series.ipynb"> Time series - Alison</a> |   <a href=""></a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/week_1/knn/knn_classification.ipynb">KNN</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/week_1/svm/SVM.ipynb">SVM</a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=rHplM3JhxlY&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=19&t=0s"> Time series</a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
 
-### Week X
+### Week X - mod5
 
 |                 | Forty one                                       | Forty two                                       | Forty three                                     | Forty four                                      | Forty five                                     |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_NN.md">KNN</a> <br><a href=""></a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_means.md"> K means</a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/PCA.md">PCA</a><br><a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/decision_tree.md">Decision trees</a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
-| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
-| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/week_1/kmeans/kmeans-flatiron.ipynb">K-means</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/week_1/decision-tree/on_decision_trees.ipynb">Decision trees</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/week_1/ds-lesson-pca/Principal-Component-Analysis.ipynb">PCA </a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/hdfs-rdd-spark/hdfs-rdd-spark.ipynb">HDFS</a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=r2wiK1h99AM&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=20&t=0s"> Decision trees </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  |<a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/week_1/forest/randomforest.ipynb">Random forest lecture</a> <br> <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/coach_labs/random_forest_lab/random_forest_classification_and_regression.ipynb"> Randon forest lab</a> |   <a href=""></a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/data-spark/Intro-to-data-with-spark.ipynb">Data spark</a> | <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=MiLbd_IEEEQ&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=23&t=0s">Random forest lecture</a><br><a href="https://www.youtube.com/watch?v=eYYgwYPiSNo&feature=youtu.be">Random forest lab</a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
-### Week XI
+### Week XI - mod5
 
 |                 | Forty six                                       | Forty seven                                       | Forty eight                                     | Forty nine                                      | Fifty                                    |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/grid_pipeline.md">grid search pipeline</a> <br><a href="">  </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/interview_practice.md">Interview Practice Questions</a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
-| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
-| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/spark-ml/spark-ml.ipynb">Spark ML</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_5/spark-als">Recommendations</a> | <a href=""> </a> | <a>July 4th</a> | <a href=""></a> |
+| Morning video   | <a href="https://www.youtube.com/watch?v=Rt5dWOO8ncU&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=22&t=0s"> Spark ML </a> | <a href="https://www.youtube.com/watch?v=8he1hlCVrz0&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=21&t=0s"> Recommendations </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
