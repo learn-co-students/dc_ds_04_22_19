@@ -139,7 +139,7 @@
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href=""></a> <br><a href="">  </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a></a> | <a href=""></a> |
-| Morning video   | <a href="https://youtu.be/I4GMPt2YVJ4"> PostgreSQL setup</a> | <a href="h">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Morning video   | <a href="https://youtu.be/I4GMPt2YVJ4"> PostgreSQL setup</a> | <a href="h">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="https://youtu.be/dwtZ5snx22I">CNN</a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
