@@ -138,7 +138,7 @@
 |                 | Forty six                                       | Forty seven                                       | Forty eight                                     | Forty nine                                      | Fifty                                    |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href=""></a> <br><a href="">  </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
-| Morning code    | <a href=>Spark ML</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_5/spark-als">Recommendations</a> | <a href=""> </a> | <a>July 4th</a> | <a href=""></a> |
+| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a></a> | <a href=""></a> |
 | Morning video   | <a href="https://youtu.be/I4GMPt2YVJ4"> PostgreSQL setup</a> | <a href="h">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
