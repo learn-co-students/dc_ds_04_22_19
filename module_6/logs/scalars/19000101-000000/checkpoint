@@ -1,0 +1,6 @@
+model_checkpoint_path: "keras_embedding.ckpt-60"
+all_model_checkpoint_paths: "keras_embedding.ckpt-20"
+all_model_checkpoint_paths: "keras_embedding.ckpt-30"
+all_model_checkpoint_paths: "keras_embedding.ckpt-40"
+all_model_checkpoint_paths: "keras_embedding.ckpt-50"
+all_model_checkpoint_paths: "keras_embedding.ckpt-60"
